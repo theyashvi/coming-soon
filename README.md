@@ -1,1 +1,1 @@
-#oming Soon Page
+Coming Soon Page
