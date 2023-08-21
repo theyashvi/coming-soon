@@ -54,4 +54,12 @@ body {
       left: -2px;
     }
   }
+  @media screen and (max-width: 768px) {
+    div {
+      font-size: 18px;
+      height: 100%;
+      margin: 0px;
+      padding: 0px;
+    }
+  }
   
